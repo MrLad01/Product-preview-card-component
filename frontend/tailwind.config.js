@@ -4,7 +4,11 @@ export default {
     "./src/App.tsx"
   ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        'xs': '300px'
+      }
+    },
   },
   plugins: [],
 }
