@@ -20,9 +20,9 @@ function App() {
             className="lg:max-2xl:rounded-s-xl xs:max-lg:rounded-t-xl w-full h-full object-cover"
           />
         </picture>
-        <div className="bg-white lg:max-2xl:rounded-e-xl xs:max-lg:rounded-b-xl grid px-6 py-8">
+        <div className="bg-white lg:max-2xl:rounded-e-xl xs:max-lg:rounded-b-xl grid px-6 py-8 xs:max-lg:py-2">
           <h3 className="opacity-70 tracking-vwide">PERFUME</h3>
-          <h2 className="">Gabrielle Essence Eau De Parfum</h2>
+          <h1 className="">Gabrielle Essence Eau De Parfum</h1>
           <p className="flex opacity-70">A floral, solar and voluptuous interpretation composed by Olivier Polge, 
   Perfumer-Creator for the House of CHANEL.</p>
           <div className="flex gap-4 items-center mb-2">
