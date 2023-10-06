@@ -7,6 +7,10 @@ export default {
     extend: {
       screens: {
         'xs': '300px'
+      },
+      letterSpacing: 
+      {
+        'vwide': '0.5em'
       }
     },
   },
